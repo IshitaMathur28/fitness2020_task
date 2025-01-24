@@ -1,16 +1,14 @@
-# task_2020
 
-A new Flutter project.
+ Fitness2020 Task
 
-## Getting Started
+A Flutter app with password protection and WebView integration for displaying embedded YouTube videos.
 
-This project is a starting point for a Flutter application.
+## Features
+- **Password Protection**: Access video content after entering the correct password.
+- **WebView**: Displays YouTube videos in a WebView.
 
-A few resources to get you started if this is your first Flutter project:
+- `webview_flutter`: WebView for mobile.
+- `flutter_inappwebview`: For web support.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2025-01-24 231253](https://github.com/user-attachments/assets/80a09b00-9aaf-4087-bf64-8ecb3a766493)
+![Screenshot 2025-01-24 231121](https://github.com/user-attachments/assets/0358fbe3-897f-49e7-bcd9-50a235103017)
